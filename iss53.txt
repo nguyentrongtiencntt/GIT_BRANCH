@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 fix by test branch! again!
 fix by master branch! again!
+=======
+add new footer!
+AAAAAA
+>>>>>>> test
