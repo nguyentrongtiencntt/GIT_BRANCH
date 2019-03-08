@@ -1,2 +1,3 @@
 edit file test.txt
-Mi edit!
+Thoi di, day moi la code chuan!
+
